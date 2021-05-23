@@ -1,0 +1,10 @@
+#banner-image {
+	padding-top: 40px;
+	padding-bottom: 60px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url("https://image.shutterstock.com/image-photo/businessman-holding-word-banking-hand-600w-1150180799.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
